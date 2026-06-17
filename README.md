@@ -1,6 +1,6 @@
 conversion.py
 
-Conversion file readme. 
+conversion.py file readme. 
 In this code we can execute the command casting. 
 What does casting mean? 
 Casting is the way to convert from a type of variable to another. 
